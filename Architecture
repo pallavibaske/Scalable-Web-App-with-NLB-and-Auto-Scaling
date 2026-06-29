@@ -1,1 +1,16 @@
+# Architecture
 
+This folder contains the AWS architecture diagram for the **Scalable Web App with NLB and Auto Scaling** project.
+
+## Architecture Components
+
+- Amazon EC2
+- Network Load Balancer (NLB)
+- Auto Scaling Group
+- Target Group
+- Security Groups
+- Amazon VPC
+
+## Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
